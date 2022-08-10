@@ -1,5 +1,9 @@
 # SPARQL in 11 minutes | Tutorials | SPARQL | Quickstarts
 
+Video: https://www.youtube.com/watch?v=FvGndkpa4K0
+
+## Notes
+
 - Query lang for RDF
 - W3C standard
 - Lets you describe a collection of three-part statements
@@ -28,7 +32,8 @@
 - RDF makes it easy to mix and match standard vocabularies and customizations
 - You can have a multiple values for the same attribute and entity identifier (like in a RDBMS where column + id can have multiple values something you cannot have with a RDBMS)
 
-Example: 
+### Examples
+ 
 ```sparql
 PREFIX vcard: <http://www.w3.org/2006/vcard/ns#>
 
