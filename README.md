@@ -24,5 +24,9 @@ SPARQL (SPARQL Protocol and RDF Query Language) Quickstarts
 - https://github.com/oxigraph/oxigraph - *SPARQL graph database (Rust)*
 - https://cygri.github.io/rdf-logos/ - Logos
 - [Simple Knowledge Organization System](https://en.wikipedia.org/wiki/Simple_Knowledge_Organization_System) - *Simple Knowledge Organization System (SKOS) is a W3C recommendation designed for representation of thesauri, classification schemes, taxonomies, subject-heading systems, or any other type of structured controlled vocabulary. SKOS is part of the Semantic Web family of standards built upon RDF and RDFS, and its main objective is to enable easy publication and use of such vocabularies as linked data.*
+    - https://www.w3.org/TR/skos-reference/
 - https://github.com/AKSW/SPARQL2NL - *converts SPARQL queries to natural language expressions*
 - https://github.com/KonradHoeffner - *Research Assistant [@IMISE](https://github.com/IMISE).* - Has a bunch of repos related to ontology, Question Answering (Statiscaly Linked Data), visualization, etc.
+### Services that use SPARQL
+- http://togogenome.org/
+- http://www.biohackathon.org/
